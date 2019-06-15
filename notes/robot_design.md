@@ -2,7 +2,7 @@
 
 - Tower Takeover Robots
 
-[wow, really good]: https://youtu.be/eYI2msWYF6w
+[wow, really good robot](https://youtu.be/eYI2msWYF6w)
 
 :+1:
 
@@ -15,8 +15,8 @@
 
 TIP: if you need know more about Markdown, visit the following links.
 
-[3min read]: https://guides.github.com/features/mastering-markdown/
+- 3min read; https://guides.github.com/features/mastering-markdown/
 
-[Markdown cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+- Markdown cheatsheet; https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-[Emoji code]: https://www.webfx.com/tools/emoji-cheat-sheet/
+- Emoji code; https://www.webfx.com/tools/emoji-cheat-sheet/
