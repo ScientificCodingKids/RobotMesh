@@ -4,7 +4,7 @@
 
 - What Need To Be Written 
 
-Table of content
+Table of contents
 
 The team
 
@@ -20,6 +20,9 @@ During the design & build process
 
 Daily entries
 
+Programming proccess
+
+Competition results
 
 - Previous Year Demos
 
