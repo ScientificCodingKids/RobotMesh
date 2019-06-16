@@ -2,8 +2,16 @@
 
 - Tower Season Rules and Awards Info
 
-blahblah
-:-)
+- What Need To Be Written 
+Table of content
+The team
+Design Process: Challenge
+Design Process: Brainstorming
+Design Process: Select Approach
+Project management & timeline
+During the design & build process
+Daily entries
+
 
 - Previous Year Demos
 
