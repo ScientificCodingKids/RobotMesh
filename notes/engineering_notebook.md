@@ -2,17 +2,19 @@
 
 - Tower Season Rules and Awards Info
 
-- What Need To Be Written 
+To get award you must include...
 
 Table of contents
 
-The team
+About the team
 
-Design Process: Challenge
+*Design Process: Challenges
 
-Design Process: Brainstorming
+*Design Process: Brainstorming
 
-Design Process: Select Approach
+*Design Process: Select Approach
+
+*Design Process: Building
 
 Project management & timeline
 
@@ -23,6 +25,9 @@ Daily entries
 Programming proccess
 
 Competition results
+
+*When written the design process you must be extremely detailed. Also you need to include diagrams and illistrations.
+
 
 - Previous Year Demos
 
