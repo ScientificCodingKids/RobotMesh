@@ -1,6 +1,6 @@
 # Engineering Notebook
 
-- Tower Season Rules and Awards Info
+- Tower Season Rules 
 
 To get award you must include...
 
@@ -27,6 +27,10 @@ Programming proccess
 Competition results
 
 *When written the design process you must be extremely detailed. Also you need to include diagrams and illistrations.
+
+- Awards Info
+
+Teams must have been awarded the Design or Excellence Award at a state/regional/provincial/national qualifying event to be eligible for Design at VEX Worlds. 
 
 
 - Previous Year Demos
