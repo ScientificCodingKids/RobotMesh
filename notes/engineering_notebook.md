@@ -1,6 +1,6 @@
-# Engineering Notebook
+# Engineering Notebook :ledger:
 
-- Tower Season Rules 
+- Tower Season Rules :page_with_curl:
 
 To get award you must include...
 
@@ -28,18 +28,18 @@ Competition results
 
 *When written the design process you must be extremely detailed. Also you need to include diagrams and illistrations.
 
-- Awards Info
+- Awards Info :trophy:
 
 Teams must have been awarded the Design or Excellence Award at a state/regional/provincial/national qualifying event to be eligible for Design at VEX Worlds. 
 
 
-- Previous Year Demos
+- Previous Year Demos 
 
 **blah**
 
 _hi_
 
-- Forum Discussions
+- Forum Discussions :computer:
 
 - [ ] first
 - [ ] second
