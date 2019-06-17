@@ -33,7 +33,7 @@ Competition results
 Teams must have been awarded the Design or Excellence Award at a state/regional/provincial/national qualifying event to be eligible for Design at VEX Worlds. 
 
 
-- Previous Year Demos :cheatsheet:
+- Previous Year Demos :page_facing_up:
 
 **blah**
 
