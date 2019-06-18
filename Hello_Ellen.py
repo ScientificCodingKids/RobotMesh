@@ -1,5 +1,7 @@
 print('hello from AWESOME Ellen')
 print('Ellen is so cool yay')
+print('are ready to become an Ellen member?')
+print('take this test')
 name = input('What is your name? ')
 color = input('What is your favorite color? ')
 print(name + ' likes ' + color)
