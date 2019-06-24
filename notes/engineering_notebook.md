@@ -33,11 +33,13 @@ Competition results
 Teams must have been awarded the Design or Excellence Award at a state/regional/provincial/national qualifying event to be eligible for Design at VEX Worlds. 
 
 
-- Previous Year Demos :page_facing_up:
+- Previous Year Demos And Other Links :page_facing_up:
 
-**blah**
+https://www.roboticseducation.org/documents/2016/11/vrc-engineering-notebook-team-1575a.pdf
 
-_hi_
+https://www.roboticseducation.org/documents/2016/08/vrc-awards-appendix-d.pdf
+
+https://www.roboticseducation.org/documents/2017/07/team-design-notebooks-and-team-journals.pdf
 
 - Forum Discussions :computer:
 
