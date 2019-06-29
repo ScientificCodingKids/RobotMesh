@@ -17,7 +17,7 @@ while command != 'quit':
     command = input('> '). lower()
     if command == 'start':
         print('Car Started...')
-    elif command == 'Stop':
+    elif command == 'stop':
         print('Car Stopped')
     elif command =='help':
         print('''
