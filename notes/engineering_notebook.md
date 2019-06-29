@@ -32,7 +32,7 @@ Competition results
 
 Teams must have been awarded the Design or Excellence Award at a state/regional/provincial/national qualifying event to be eligible for Design at VEX Worlds. 
 
-**Couldn't find any information about how many slots are open to go to VEX World Championships
+**Couldn't find any information about how many slots are open to go to VEX World Championships**
 
 - Previous Year Demos And Other Links :page_facing_up:
 
