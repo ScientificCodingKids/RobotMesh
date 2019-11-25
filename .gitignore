@@ -1,5 +1,6 @@
 *.*
 !*.py
+!*.docx
 !README.md
 !.gitignore
 
